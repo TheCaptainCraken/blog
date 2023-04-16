@@ -1,0 +1,53 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Pietro Agnoli
+theme: "PaperMod"
+ShowToc: true
+TocOpen: true
+enableEmoji: true
+copyright: "© 2023 Pietro Agnoli"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+menu:
+  main:
+    - identifier: projects
+      name: projects
+      url: /posts/projects/
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search
+      weight: 10
+    - identifier: about
+      name: about
+      url: /posts/aboutme
+      weight: 15
+
+params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  env: production
+  dateFormat: "02 Jan 2006"
+  homeInfoParams:
+    Title: Pietro Agnoli 🏴‍☠️
+    Content: Welcome to my blog! I'm Pietro Agnoli, a Computer Science student at Politecnico di Milano in Italy. Join me as I share my favourite and most interesting programming projects, written in C, Python, and Rust. Each project will be explained step by step, so you can follow along and try it for yourself.
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/TheCaptainCraken"
+    - name: "StackOverflow"
+      url: "https://stackoverflow.com/"
+    - name: "Email"
+      url: "mailto://pietro.agnoli.work@gmail.com"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
