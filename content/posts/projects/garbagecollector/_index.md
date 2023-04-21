@@ -1,7 +1,7 @@
 ---
 layout: "list"
 title: Create a garbage collector
-description: in this series we are going to create together a simple garbage collector for the C programming language.
+description: In this series we are going to create together a simple garbage collector for the C programming language.
 summary: A simple garbage collector written in C using the 'mark and sweep' tecnique.
 ShowReadingTime: false
 cover:

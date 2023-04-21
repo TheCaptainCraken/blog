@@ -4,8 +4,9 @@ summary: What is a garbage collector anyway?
 draft: false
 showToc: true
 tocopen: true
-tags: ["garbage collector", "C", "low level"]
+tags: ["garbage collector", "C", "low level", "operating system"]
 date: "2023-04-12"
+weight: 1
 ---
 Garbage collection is a programming concept that you might have heard about. It's important to know about because it can help you write better code by removing some of the burden of memory management from your shoulders.
 
