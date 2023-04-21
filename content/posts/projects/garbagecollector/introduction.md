@@ -10,7 +10,9 @@ weight: 1
 ---
 Garbage collection is a programming concept that you might have heard about. It's important to know about because it can help you write better code by removing some of the burden of memory management from your shoulders.
 
-> Garbage collection is the process by which a program automatically reclaims unused memory and frees up resources for other programs to use. When you write code in any language, **there are two types of data: live and dead (or "garbage")**:
+> Garbage collection is the process by which a program automatically reclaims unused memory and frees up resources for other programs to use.
+
+When you write code in any language, **there are two types of data: live and dead (or "garbage")**:
 
 - **Live data** refers to anything being **used by the program** at any given time; for example, if an object has been created but hasn't been destroyed yet then that object would be considered live.
 
