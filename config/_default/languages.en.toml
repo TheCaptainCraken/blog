@@ -16,7 +16,7 @@ description = "Welcome to my blog! I'm Pietro Agnoli, a Computer Science student
 [author]
 name = "Pietro Agnoli"
 image = "images/logo.png"
-headline = "Politecnico di Milano CS student. Enthusiast in computer graphics, algorithms, AI. Rust aficionado, sailor, and cocktail mixer."
+headline = "Politecnico di Milano CS student. Enthusiast in computer graphics, algorithms and AI. Rust aficionado, sailor and cocktail mixer."
 bio = "I'm a Computer Science student at Politecnico di Milano in Italy. Join me as I share my favourite and most interesting programming projects, written in C, Python and Rust."
 links = [
   { email = "mailto:pietro_agnoli@proton.me" },
