@@ -9,7 +9,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "images/logo.png"
-# secondaryLogo = "img/secondary-logo.png"
+secondaryLogo = "images/logo.png"
 description = "Welcome to my blog! I'm Pietro Agnoli, a Computer Science student at Politecnico di Milano in Italy. Join me as I share my favourite and most interesting programming projects, written in C, Python and Rust."
 # copyright = "Copy, _right?_ :thinking_face:"
 
