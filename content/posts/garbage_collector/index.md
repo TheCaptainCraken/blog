@@ -33,3 +33,9 @@ Imagine each object in your program as a unique entity with a personal tally of 
 Now, how does this relate to the specific challenges of C programming? In C, developers have a considerable degree of manual control over memory, but with great power comes great responsibility. The absence of an automatic garbage collector in C means that developers must meticulously allocate and deallocate memory, avoiding memory leaks and dangling pointers.
 
 My journey in crafting a garbage collector for C involved implementing a reference counting system that seamlessly integrates with the language's manual memory management. By incorporating reference counting, my garbage collector relieves C programmers of some of the burden associated with tracking and freeing memory, promoting cleaner, more sustainable code.
+
+## Try it
+
+If you're interested in trying the garbage collector I wrote, just download the source code from github and compile it!
+
+{{< github repo="TheCaptainCraken/garbage_collector" >}}
