@@ -29,7 +29,7 @@ If the desired outcome is to brake a habit, do the opposite:
 
 ### Make it Obvious
 
-*Make it Obvious* involves **clearly stating your desires**. A practical approach is to document your intentions, such as specifying, "I will (BEHAVIOR) at (TIME) in (PLACE)." Another effective method is *habit stacking*: linking a new habit to one you already practice, like "After (HABIT YOU ALREADY DO), I will (NEW HABIT)." To break a habit, it's essential to raise awareness of the issue. One effective way is to compile a list of all your habits, enabling you to see on paper what needs to change. Additionally, minimizing exposure can help; for instance, if you're trying to quit smoking, reduce your time around cigarettes or other smokers.
+*Make it Obvious* involves **clearly stating your desires**. A practical approach is to document your intentions, such as specifying, *"I will (BEHAVIOR) at (TIME) in (PLACE)".* Another effective method is *habit stacking*: linking a new habit to one you already practice, like *"After (HABIT YOU ALREADY DO), I will (NEW HABIT)".* To break a habit, it's essential to raise awareness of the issue. One effective way is to compile a list of all your habits, enabling you to see on paper what needs to change. Additionally, minimizing exposure can help; for instance, if you're trying to quit smoking, reduce your time around cigarettes or other smokers.
 
 ### Make it Attractive
 
