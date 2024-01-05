@@ -4,6 +4,8 @@ date: 2023-12-17
 description: My insights on James Clear's "Atomic Habits", a book designed to empower ordinary individuals to accomplish remarkable goals. 📖🚀
 summary: My insights on James Clear's "Atomic Habits", a book designed to empower ordinary individuals to accomplish remarkable goals. 📖🚀
 tags: ["book", "self improvement", "James Clear", "review"]
+series: ["Book Club"]
+series_order: 1
 ---
 A few months ago, I was in search of a new book and decided to explore the best sellers in the "self-help" category online. Among the recommendations, James Clear's "Atomic Habits" caught my eye, and given its popularity with over 15 million copies sold, I decided to give it a read. I found the book quite enjoyable.
 
