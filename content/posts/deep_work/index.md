@@ -8,13 +8,13 @@ series: ["Book Club"]
 series_order: 3
 ---
 
-As a third-year computer science student at Politecnico di Milano, I dedicate a considerable amount of time to deep thinking. So naturally, "Deep Work" by Cal Newport has piqued my interest because it promises to help people achieve depth more easly and it has favorable reviews on Amazon.
+As a third-year computer science student at Politecnico di Milano, I dedicate a considerable amount of time to deep thinking. So naturally, "Deep Work" by Cal Newport has piqued my interest because it promises to help people achieve depth more easily and it has favorable reviews on Amazon.
 
 ## Understanding Deep Work
 
 The book aims to impart what it deems *"one of the most valuable skills in our economy"*, known as *Deep Work*. The author provides the following definition:
 
-> Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limi. These efforts create new value, improve your skill, and are hard to replicate.
+> Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
 
 In practical terms, any mentally demanding task that necessitates focused attention falls under the umbrella of *Deep Work*. Examples include:
 
@@ -32,7 +32,7 @@ Mastering the skill of Deep Work can be challenging due to the lack of support i
 
 In the book, *Shallow Work* is characterized as:
 
-> Noncognitively demanding, logistical-style tasks, often performed while distracted. these efforts tend not to create much new value in the world and are easy to replicate.
+> Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend not to create much new value in the world and are easy to replicate.
 
 Examples of *Shallow Work* include:
 
