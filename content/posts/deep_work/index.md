@@ -3,7 +3,7 @@ title: Deep Work Review
 date: 2024-01-13
 summary: In the book "Deep Work", Cal Newport presents a persuasive argument for developing a crucial skill in today's economy and provides practical guidance on how to cultivate it. 👔📖
 description: In the book "Deep Work", Cal Newport presents a persuasive argument for developing a crucial skill in today's economy and provides practical guidance on how to cultivate it. 👔📖
-tags: ["book", "work", "self improvment", "Cal Newport"]
+tags: ["book", "work", "self improvement", "Cal Newport"]
 series: ["Book Club"]
 series_order: 3
 ---
@@ -26,7 +26,7 @@ In practical terms, any mentally demanding task that necessitates focused attent
 
 Such efforts are highly valued in today's economy because they are hard to replicate. The changing landscape of our economy emphasizes the inadequacy of average performance. Hiring multiple inexperienced developers cannot substitute the expertise of a highly skilled developer. Succeeding in this evolving economy requires the ability to produce at an elite level.
 
-Mastering the skill of Deep Work can be challenging due to the lack of support in many work environments. Effective concentration demands a distraction-free setting. While the author cites emails as form of distraction, it is worth noting that, for my generation, prevalent distractions stem from social media apps such as Instagram, YouTube, BeReal, and the like. 
+Mastering the skill of Deep Work can be challenging due to the lack of support in many work environments. Effective concentration demands a distraction-free setting. While the author cites emails as form of distraction, it is worth noting that, for my generation, prevalent distractions stem from social media apps such as Instagram, YouTube, BeReal, and the like.
 
 ## Shallow Work
 
@@ -43,7 +43,7 @@ Examples of *Shallow Work* include:
 - Scheduling appointments
 
 The impact of these efforts is lower than that of *Deep Work*. However, it's essential to recognize that eliminating *Shallow Work* entirely is not desirable; it constitutes a necessary aspect of daily life. The emphasis should instead be on minimizing the time allocated to these tasks in favor of engaging in more profound, meaningful work.
- 
+
 ## Improve Your Deep Work
 
 Within the pages of the book, Newport provides insights into improving one's capacity for deep work. This is a challenging exercise due to one's mind inclination to follow the path of least resistance, often leading to engagement in *Shallow Work* unless intentionally trained otherwise.
