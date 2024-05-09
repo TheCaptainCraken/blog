@@ -24,4 +24,4 @@ Sometimes kindness can hide dishonesty, meanwhile can honesty hide unkindness? T
 
 If you tell them they look amazing, you're lying. You're being dishonest with them but they don't know it. You'll see there is no way to be unkind and honest without them finding out. If you were to tell them they look ke a garbage can, you would be both honest and unkind but they would know about it.
 
-These are a few reasons why it's important to trust people who are honest, even if sometimes they're unkind, rather then people who are kind. Because whoever is careless with the truth in small matters cannot be trusted with important matters.
+These were a few reasons why it's important to trust people who are honest, even if sometimes they're unkind, rather then people who are kind. Because whoever is careless with the truth in small matters cannot be trusted with important matters.
