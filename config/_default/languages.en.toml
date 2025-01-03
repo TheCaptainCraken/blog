@@ -1,7 +1,7 @@
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "Pietro Agnoli"
+# languageCode = "en"
+# languageName = "English"
+# weight = 1
+title = "Pietro's Tavern"
 
 [params]
 displayName = "EN"
@@ -10,13 +10,13 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "images/logo.png"
 secondaryLogo = "images/logo.png"
-description = "Welcome to my blog! I'm Pietro Agnoli, a Computer Science student at Politecnico di Milano in Italy. Join me as I share my favourite and most interesting programming projects, written in C, Python and Rust."
+description = "Welcome to Pietro's Tavern, a virtual haven where ideas set sail and stories flow as freely as the rum. Here, you’ll find a treasure trove of intriguing content, from thought-provoking insights on philosophy, technology, and literature to delicious food and cocktail recipes inspired by the sea. Whether you’re here to discover a new idea, indulge in a great story, or enjoy a perfectly crafted drink, Pietro’s Tavern offers a welcoming space for curious minds to explore, learn, and savor life’s simple pleasures. Come aboard, pull up a seat, and let the adventure begin!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
-name = "Pietro Agnoli"
+[params.author]
+name = "Pietro's Tavern"
 image = "images/logo.png"
-headline = "Politecnico di Milano CS student. Enthusiast in computer graphics, algorithms and AI. Rust aficionado, sailor and cocktail mixer."
+headline = "Where Ideas Set Sail, Tales Flow Freely, and Every Sip Tells a Story."
 bio = "I'm a Computer Science student at Politecnico di Milano in Italy. Join me as I share my favourite and most interesting programming projects, written in C, Python and Rust."
 links = [
   { email = "mailto:pietro_agnoli@proton.me" },
