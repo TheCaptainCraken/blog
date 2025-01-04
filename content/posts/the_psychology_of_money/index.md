@@ -1,6 +1,6 @@
 ---
 title: The Psychology of Money in 5 minutes
-date: 2024-05-08
+date: 2025-01-04
 summary: In "The Psychology of money", Morgan Housel presents a series of timeless lessons on wealth, greed and happiness. Knowing what one's supposed to do with their money it's easy, actually doing it is rather hard. 💸📖
 tags: ["book", "money", "self improvement", "Morgan Housel"]
 series: ["Book Club"]
@@ -34,4 +34,21 @@ After all we are all humans, this is why...
 ## Reasonable > Rational
 
 > Aiming to be mostly reasonable works better than trying to be coldly rational.
+
+We are all humans. For some reason, we sometimes forget about it. For this reason is unrealistic to aim to be coldly rational when thinking about our own investments.
+You may be using the best investment strategy known to mankind but that does not mean you'll sleep well at night.
+
+For this reason you should instead aim to be just *reasonable*. It means choosing the strategy you can best live with. In the U.S. the historical odds of making money in markets is about 50% in a day,
+68% in a year and 100% in 20 years. That means if you stay long enough, you'll be making money. No matter what happens inb between.
+
+If we need to stay in the game for long, a reasonable plan is no enough on its own. This is because, since you're human...
+
+## You'll Change
+
+> Long-term planning is harder than it seems because people's goals and desires change over time.
+
+You maybe not aware of this al the time but you have change and you'll continue to do it forever.
+What you wanted to do when you were a kid is very different from what you're doing now. It will be different than what you'll do in 20 years.
+
+The solution is simple. You should always avoid extremes when making financial decisions. This will leave you room to change.
 
