@@ -12,7 +12,7 @@ A genius is a man who can do the average thing when everyone else around him is 
 ~Napoleon
 {{< /lead >}}
 
-Picture this: Tomorrow, just as you're having lunch, you get a call. You answer, and a man on the other end tells you that you've won $1,000,000. What would you do with it?
+Picture this: Tomorrow, just as you're having lunch, you get a call. You answer, and a man on the other end tells you that you've won $10,000,000. What would you do with it?
 
 If you're like most people, your first thoughts might be: "I'll buy a Ferrari," "I'll take a luxury vacation," or maybe even, "I'll buy a yacht." Deep down, though, you know these aren't the smartest choices if your goal is long-term wealth. So why would you think this way?
 
@@ -64,3 +64,20 @@ Think about it: What you wanted as a kid is probably very different from what yo
 The solution? Avoid extremes when making financial decisions. Leave room for flexibility.
 
 This way, when your circumstances and priorities inevitably shift, you'll be prepared.
+
+## Conclusion
+
+Money isn't just numbers on a spreadsheet—it's deeply tied to how we think, feel, and see the world.
+*The Psychology of Money* reminds us that financial success isn't just about making the “right” decisions; it's about understanding ourselves and the sometimes irrational ways we approach money.
+
+We've seen how [No One's Crazy](#no-ones-crazy). Everyone's decisions make sense through the lens of their own experiences.
+We've also learned that [Reasonable > Rational](#reasonable--rational), and that plans need room to adapt because, well, we're always changing.
+
+But honestly, we've only scratched the surface of what this book has to offer.
+Morgan Housel doesn't just deliver financial wisdom—he weaves in life lessons about people, behavior, and the quirks of human nature.
+It's the kind of book you read not just to understand money better, but to understand yourself and others, too.
+
+At the end of the day, money is just a tool.
+Whether you win $10,000,000 tomorrow or slowly build your wealth over decades, what truly matters is how you use it to create the life you want.
+
+So, what would you do with your ten million dollars?
