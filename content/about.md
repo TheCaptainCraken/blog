@@ -5,7 +5,7 @@ date: 2025-01-05
 
 Hi there! 👋  
 
-My name is Pietro Agnoli, and I’m a 21-year-old Computer Science student at [Politecnico di Milano](https://www.polimi.it/) in Italy. I have a deep passion for programming and love bringing creative ideas to life.  
+My name is Pietro Agnoli, and I’m a 22-year-old Computer Science student at [Politecnico di Milano](https://www.polimi.it/) in Italy. I have a deep passion for programming and love bringing creative ideas to life.  
 
 Right now, my main interests include programming language design and implementation, salsa and bachata dancing, mixing cocktails, and about a billion other things that catch my attention. Oh, and I’m also learning Spanish—so if you’re a native speaker, feel free to test me out!  
 
