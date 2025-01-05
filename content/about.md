@@ -9,8 +9,6 @@ My name is Pietro Agnoli, and I’m a 21-year-old Computer Science student at [P
 
 Right now, my main interests include programming language design and implementation, salsa and bachata dancing, mixing cocktails, and about a billion other things that catch my attention. Oh, and I’m also learning Spanish—so if you’re a native speaker, feel free to test me out!  
 
----
-
 ## What is this thing?  
 
 Whenever I meet someone new, I like to ask: *“What would you do if you had 10 million euros right now?”* It’s such a fun question because it tells you so much about someone—what they dream about, what they love, and what really makes them tick.  
@@ -27,15 +25,11 @@ Here, you’ll find:
 
 Basically, it’s a little bit of everything.
 
----
-
 ## Cool, when are you posting this stuff?  
 
 I’m aiming to post something new every week. Most of it will be articles (probably a 70/30 split between articles and recipes).  
 
 That said, I’m a student, and my schedule revolves around exams. During exam periods, updates might be slower. I’ll do my best to keep things rolling, but hey—life happens!  
-
----
 
 ## Conclusion  
 
