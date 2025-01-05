@@ -15,7 +15,7 @@ Whenever I meet someone new, I like to ask: *“What would you do if you had 10 
 
 If you ask me, my answer is simple: I’d move to an island with sandy beaches and palm trees and open *The Captain Kraken’s Tavern.* It would be a pirate-themed cocktail bar and kitchen. I’d be behind the bar, mixing up all the drinks. It’d be the kind of place where you can sip on something delicious, eat great food, and chat about fascinating things with people from all over the world—just like in a proper pirate tavern!  
 
-Of course, as a broke student, I’m not exactly in a position to open my dream tavern right now. So I decided to build this website instead! Think of it as the virtual version of *The Captain Kraken’s Tavern*.  
+Of course, as a student, I’m not exactly in a position to open my dream tavern right now. So I decided to build this website instead! Think of it as the virtual version of *The Captain Kraken’s Tavern*.  
 
 Here, you’ll find:
 
@@ -29,10 +29,10 @@ Basically, it’s a little bit of everything.
 
 I’m aiming to post something new every week. Most of it will be articles (probably a 70/30 split between articles and recipes).  
 
-That said, I’m a student, and my schedule revolves around exams. During exam periods, updates might be slower. I’ll do my best to keep things rolling, but hey—life happens!  
+That said, I’m a student, and my schedule revolves around exams. During exam periods, updates might be slower. I’ll do my best to keep things rolling.
 
 ## Conclusion  
 
 I really hope you’ll find this tavern of mine interesting. If there’s something you’d love to see here—whether it’s a topic, a recipe, or just something cool you think others would enjoy—hit me up!  
 
-You can email me at <pietro_agnoli@proton.me>. Let’s make this little corner of the web as lively and fun as a real pirate tavern!  
+You can email me at <pietro_agnoli@proton.me>. Thank you for visiting!
