@@ -1,0 +1,14 @@
+name: Trigger Netlify Build
+
+on:
+  schedule:
+    - cron: '0 17 * * 1' # 6 PM UTC+1 is 5 PM UTC (adjusting for time zone difference)
+
+jobs:
+  trigger-netlify-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Netlify Build Hook
+        run: |
+          curl -X POST -d '{}' https://api.netlify.com/build_hooks/677ab566951855e97719e4d1
