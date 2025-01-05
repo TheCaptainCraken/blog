@@ -8,47 +8,59 @@ series_order: 4
 draft: true
 ---
 {{< lead >}}
-A genius is a man who can do the average thing when everyone else around him is losing him mind.
+A genius is a man who can do the average thing when everyone else around him is losing their mind.
 ~Napoleon
 {{< /lead >}}
 
-Picture this: tomorrow, just when you're having launch, you get a call. You answer and a man on the other side tells you that you won some 1000000$. What would you do with it?
+Picture this: Tomorrow, just as you're having lunch, you get a call. You answer, and a man on the other end tells you that you've won $1,000,000. What would you do with it?
 
-If you're like most people you probably answered "I'll buy a nice Ferrari" or "I'll have a nice luxury vacation" or maybe "I'll buy a boat". Deep down you know this isn't the best way to use your money to guarantee you a life of wealth. So why would you do that?
+If you're like most people, your first thoughts might be: "I'll buy a Ferrari," "I'll take a luxury vacation," or maybe even, "I'll buy a yacht." Deep down, though, you know these aren't the smartest choices if your goal is long-term wealth. So why would you think this way?
 
-Why do we always see people that win the lottery end up broke? The answer is rather simple: they usually gamble it away. The real question is why would someone that got so lucky one time want to risk it all over again?
+Why do so many lottery winners end up broke? The answer is surprisingly simple: They often gamble their winnings away. But the real question is, why would someone who got so lucky once take that risk again?
 
-Let's try to answer this.
+Let's explore.
 
 ## No One's Crazy
 
->Your personal experiences with money make up maybe 0.00000001% of what's happened in the world. but maybe 80% of how you think the world works.
+> Your personal experiences with money make up maybe 0.00000001% of what's happened in the world—but maybe 80% of how you think the world works.
 
-This is true for everything, not just for money related stuff. We all are the result of our lives. I'll give you a classical example: cars.
-In Italy, where I live, there have been 3039 deaths occurred as a direct consequence of car accidents in 2023. In the same year, exactly 6 people died in plane crashes. Even accounting for the fact that more people go on cars than on planes, the difference is huge. Yet, you are likely more scared to go on a plane than on a car.
+This principle applies not just to money but to almost everything in life. Our worldview is shaped by our personal experiences. Here's a classic example: cars vs. planes.
 
-So no one's crazy, we just see the world from a different perspective based on our personal experiences. People who win the lottery, think they could do it again, after all it happened once, why can't it happen again? You probably don't agree with the reasoning but I can imagine why someone circumstance would think that.
+In Italy, where I live, 3,039 people died in car accidents in 2023. In contrast, just six people died in plane crashes that same year. Even considering that more people drive cars than fly, the difference is staggering. Yet, most people are far more afraid of flying than driving.
 
-After all we are all humans, this is why...
+Why? Because our fears and perceptions are based on personal experiences and the stories we tell ourselves, not objective statistics.
+
+Likewise, people who win the lottery often believe they could win again. “It happened once,” they think, “so why not again?” You might not agree with their logic, but it's easy to see why someone in their position would think this way.
+
+We're all human, after all—and that's why…
 
 ## Reasonable > Rational
 
 > Aiming to be mostly reasonable works better than trying to be coldly rational.
 
-We are all humans. For some reason, we sometimes forget about it. For this reason is unrealistic to aim to be coldly rational when thinking about our own investments.
-You may be using the best investment strategy known to mankind but that does not mean you'll sleep well at night.
+Humans aren't robots. We often forget that. It's unrealistic to expect ourselves to be perfectly rational when managing our money and investments.
 
-For this reason you should instead aim to be just *reasonable*. It means choosing the strategy you can best live with. In the U.S. the historical odds of making money in markets is about 50% in a day,
-68% in a year and 100% in 20 years. That means if you stay long enough, you'll be making money. No matter what happens inb between.
+You might use the most logical investment strategy ever devised, but that doesn't mean you'll sleep well at night.
 
-If we need to stay in the game for long, a reasonable plan is no enough on its own. This is because, since you're human...
+Instead of aiming for pure rationality, aim to be reasonable. Choose strategies that align with how you think and feel—ones you can stick with over the long term.
+
+For example, in the U.S., the historical odds of making money in the stock market are:
+
+50% in a single day
+68% in a year
+100% over 20 years
+If you stay in the game long enough, you'll make money—no matter what happens in between.
+
+But staying in the game requires more than just a reasonable plan. It also requires understanding that, since you're human…
 
 ## You'll Change
 
 > Long-term planning is harder than it seems because people's goals and desires change over time.
 
-You maybe not aware of this al the time but you have change and you'll continue to do it forever.
-What you wanted to do when you were a kid is very different from what you're doing now. It will be different than what you'll do in 20 years.
+You may not realize it, but you've already changed—and you'll keep changing.
 
-The solution is simple. You should always avoid extremes when making financial decisions. This will leave you room to change.
+Think about it: What you wanted as a kid is probably very different from what you want now. And what you'll want in 20 years will likely differ from what you want today.
 
+The solution? Avoid extremes when making financial decisions. Leave room for flexibility.
+
+This way, when your circumstances and priorities inevitably shift, you'll be prepared.
