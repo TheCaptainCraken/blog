@@ -5,7 +5,6 @@ summary: In "The Psychology of money", Morgan Housel presents a series of timele
 tags: ["book", "money", "self improvement", "Morgan Housel"]
 series: ["Book Club"]
 series_order: 4
-draft: true
 ---
 {{< lead >}}
 A genius is a man who can do the average thing when everyone else around him is losing their mind.

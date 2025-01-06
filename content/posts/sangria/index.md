@@ -1,11 +1,10 @@
 ---
 title: The Ultimate Sangria Recipe  
-date: 2025-01-05  
+date: 2025-01-06  
 summary: My go-to sangria recipe that never misses. It’s been battle-tested in every scenario you can imagine and always delivers. Fruity, perfectly sweet (but not over the top), and sure to impress your friends and family.  
 tags: ["recipe", "sangria", "wine", "summer"]  
 series: ["Tavern Drinks"]  
-series_order: 1  
-draft: true  
+series_order: 1 
 ---
 
 Sangria is one of my favorite party drinks.  
