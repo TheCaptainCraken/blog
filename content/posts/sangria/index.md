@@ -1,9 +1,9 @@
 ---
 title: The Ultimate Sangria Recipe  
 date: 2025-01-06  
-summary: My go-to sangria recipe that never misses. It’s been battle-tested in every scenario you can imagine and always delivers. Fruity, perfectly sweet (but not over the top), and sure to impress your friends and family.  
+summary: My go-to sangria recipe that never misses. It's been battle-tested in every scenario you can imagine and always delivers. Fruity, perfectly sweet (but not over the top), and sure to impress your friends and family. 🍷🍎
 tags: ["recipe", "sangria", "wine", "summer"]  
-series: ["Tavern Drinks"]  
+series: ["Tavern Drinks"]
 series_order: 1 
 ---
 
@@ -31,7 +31,7 @@ This recipe serves about 3 to 4 people.
 
 ## Procedure  
 
-Here’s how I make it. The process isn’t super strict, but remember to start at least 12 hours before serving (24 hours is even better!).  
+Here's how I make it. The process isn't super strict, but remember to start at least 12 hours before serving (24 hours is even better!).  
 
 1. Put the sugar in a large bowl.  
 2. Juice half of the lemons into the bowl.  
@@ -56,14 +56,14 @@ Now, add the seltzer to the infused wine. From here:
 
 Bonus points if you pour the wine into a jug before serving—it makes it much easier to handle!  
 
-## Captain’s Tips  
+## Captain's Tips  
 
-Sangria is the kind of recipe you can tweak with whatever you have on hand. As long as you’ve got fruit, wine, sugar, and seltzer, you’re good to go.  
+Sangria is the kind of recipe you can tweak with whatever you have on hand. As long as you've got fruit, wine, sugar, and seltzer, you're good to go.  
 
-If you don’t have the exact fruits I used or the same quantities, don’t worry! For the wine, pick a nice full-bodied red. No seltzer? Use sparkling water instead.  
+If you don't have the exact fruits I used or the same quantities, don't worry! For the wine, pick a nice full-bodied red. No seltzer? Use sparkling water instead.  
 
 Serve sangria in red wine glasses, and for bonus flair, provide your guests with small sticks or toothpicks to pick out the fruit pieces from their glasses.  
 
 Looking for a food pairing? Patatas bravas are my top recommendation—but honestly, anything goes.  
 
-And that’s it! You’re now armed with everything you need for your next summer party or family gathering. You’re going to be amazing!  
+And that's it! You're now armed with everything you need for your next summer party or family gathering. You're going to be amazing!  
