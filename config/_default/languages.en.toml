@@ -11,7 +11,7 @@ dateFormat = "2 January 2006"
 logo = "images/logo.webp"
 secondaryLogo = "images/logo.webp"
 description = "Welcome to Pietro's Tavern, a virtual haven where ideas set sail and stories flow as freely as the rum. Here, you’ll find a treasure trove of intriguing content, from thought-provoking insights on philosophy, technology, and literature to delicious food and cocktail recipes inspired by the sea. Whether you’re here to discover a new idea, indulge in a great story, or enjoy a perfectly crafted drink, Pietro’s Tavern offers a welcoming space for curious minds to explore, learn, and savor life’s simple pleasures. Come aboard, pull up a seat, and let the adventure begin!"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2025 Pietro Agnoli"
 
 [params.author]
 name = "Pietro's Tavern"
