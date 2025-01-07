@@ -8,14 +8,14 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "images/logo.png"
-secondaryLogo = "images/logo.png"
+logo = "images/logo.webp"
+secondaryLogo = "images/logo.webp"
 description = "Welcome to Pietro's Tavern, a virtual haven where ideas set sail and stories flow as freely as the rum. Here, you’ll find a treasure trove of intriguing content, from thought-provoking insights on philosophy, technology, and literature to delicious food and cocktail recipes inspired by the sea. Whether you’re here to discover a new idea, indulge in a great story, or enjoy a perfectly crafted drink, Pietro’s Tavern offers a welcoming space for curious minds to explore, learn, and savor life’s simple pleasures. Come aboard, pull up a seat, and let the adventure begin!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
 name = "Pietro's Tavern"
-image = "images/logo.png"
+image = "images/logo.webp"
 headline = "Where Ideas Set Sail, Tales Flow Freely, and Every Sip Tells a Story."
 bio = "I'm a Computer Science student at Politecnico di Milano in Italy. Join me as I share my favourite and most interesting programming projects, written in C, Python and Rust."
 links = [
