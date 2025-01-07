@@ -136,8 +136,8 @@ cardViewScreenWidth = false
 # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-# identifier = ""
-# globalWidget = true
+identifier = "captaincraken"
+globalWidget = true
 # globalWidgetMessage = "Hello"
 # globalWidgetColor = "#FFDD00"
 # globalWidgetPosition = "Right"

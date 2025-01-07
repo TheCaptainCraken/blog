@@ -1,6 +1,6 @@
 ---
 title: Formal Grammars With Ohmscript
-date: 2025-01-07
+date: 2025-01-05
 summary: In "The Psychology of money", Morgan Housel presents a series of timeless lessons on wealth, greed and happiness. Knowing what one's supposed to do with their money it's easy, actually doing it is rather hard. 💸📖
 tags: ["formal grammar", "rust", "computer science", "parser"]
 draft: true
