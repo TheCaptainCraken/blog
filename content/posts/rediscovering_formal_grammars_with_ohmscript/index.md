@@ -1,7 +1,7 @@
 ---
 title: Formal Grammars With Ohmscript
 date: 2025-01-08
-summary: Learn how computers understand code through tokenization, parsing, and interpretation, with a dive into formal grammars and a custom scripting language for resistance calculations.
+summary: Learn how computers understand code through tokenization, parsing, and interpretation, with a dive into formal grammars and a custom scripting language for resistance calculations. 🎚️⚙️
 tags: ["formal grammar", "rust", "computer science", "parser"]
 ---
 
