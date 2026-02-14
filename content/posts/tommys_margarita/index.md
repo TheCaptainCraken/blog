@@ -1,6 +1,6 @@
 ---
 title: Tommy's Margarita - The Modern Agave Marvel!
-date: 2025-05-02
+date: 2026-02-14
 summary: Unlock the secret to a *better* Margarita! This Tommy's recipe swaps complexity for pure agave bliss, pairing tequila and lime perfectly. It's shockingly simple but delivers huge flavour. Get ready to taste tequila like never before! ✨🌵
 tags: ["recipe", "tequila", "sour", "margarita", "modern classic", "cocktail"]
 series: ["Tavern Drinks"] 
