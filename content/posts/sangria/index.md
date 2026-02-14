@@ -47,14 +47,14 @@ Here's how I make it. The process isn't super strict, but remember to start at l
 ## Serving  
 
 To serve, first remove the spices, leaving only the fruit and wine.  
-I like to take all the fruit out and put it in a separate bowl—this makes serving way easier.  
+I like to take all the fruit out and put it in a separate bowl: this makes serving way easier.  
 
 Now, add the seltzer to the infused wine. From here:
 
 - Pour the wine into glasses.  
 - Add some fruit from the separate bowl to each glass.  
 
-Bonus points if you pour the wine into a jug before serving—it makes it much easier to handle!  
+Bonus points if you pour the wine into a jug before serving: it makes it much easier to handle!  
 
 ## Captain's Tips  
 
@@ -64,6 +64,6 @@ If you don't have the exact fruits I used or the same quantities, don't worry! F
 
 Serve sangria in red wine glasses, and for bonus flair, provide your guests with small sticks or toothpicks to pick out the fruit pieces from their glasses.  
 
-Looking for a food pairing? Patatas bravas are my top recommendation—but honestly, anything goes.  
+Looking for a food pairing? Patatas bravas are my top recommendation: but honestly, anything goes.  
 
 And that's it! You're now armed with everything you need for your next summer party or family gathering. You're going to be amazing!  

@@ -52,7 +52,7 @@ This challenge is exacerbated by contemporary work environments that do not prio
 
 To navigate these hurdles and cultivate deep work, consider the following tips:
 
-- **Disconnect Strategically:** Dedicate a specific block of time—a day, a week, or even a month—to disconnect from all sources of shallowness.
+- **Disconnect Strategically:** Dedicate a specific block of time: a day, a week, or even a month: to disconnect from all sources of shallowness.
 - **Seize Opportunities for Depth:** Whenever you find yourself in a conducive environment, take advantage of the opportunity to engage in *Deep Work*.
 - **Plan Your Day:** Utilize time-blocking apps or traditional planning methods to structure your day in advance.
 - **Treat Time as a Limited Resource:** Recognize time as a valuable and finite asset, akin to money, and allocate it judiciously.

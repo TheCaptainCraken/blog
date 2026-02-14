@@ -6,7 +6,7 @@ date: 2023-11-13
 tags: ["raytracing", "rust", "graphics"]
 ---
 
-Diving into the captivating world of ray tracing and computer graphics has always been a thrilling journey for me. Initially, the intricate mathematics behind these concepts seemed daunting, but my perspective transformed when I stumbled upon a game-changing book on Amazon— ["Computer Graphics From Scratch" by Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/). This gem of a resource unravels the complexities of computer graphics with an approachable style, demystifying the underlying math without resorting to hand waving.
+Diving into the captivating world of ray tracing and computer graphics has always been a thrilling journey for me. Initially, the intricate mathematics behind these concepts seemed daunting, but my perspective transformed when I stumbled upon a game-changing book on Amazon:  ["Computer Graphics From Scratch" by Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/). This gem of a resource unravels the complexities of computer graphics with an approachable style, demystifying the underlying math without resorting to hand waving.
 
 Armed with the knowledge gained from this book, I embarked on a personal project in Rust, crafting a simple ray tracer program capable of rendering scenes and transforming them into mesmerizing `.png` files. Join me in this blog post as we explore the fascinating world of ray tracing, demystify its mathematical intricacies, and witness the magic it brings to computer graphics.
 
@@ -16,7 +16,7 @@ Ray tracing is a technique in computer graphics that simulates the way light int
 
 ## The painting analogy
 
-Imagine you're a painter assigned to depict a landscape, armed with a canvas, paint, and a brush. However, there's a catch—you're not artistically inclined. But fear not, ray tracing comes to the rescue! In a way, it's like putting an insect net on a stick. By looking through this net, you can observe the landscape. Now, envision dividing the canvas into squares, mirroring those in the net. For each square in the net, identify the color of the landscape seen through it and paint that color onto the canvas in the corresponding position. Repeat this process for every hole in the net, and you've successfully crafted a painting! Here's the algorithm in a nutshell:
+Imagine you're a painter assigned to depict a landscape, armed with a canvas, paint, and a brush. However, there's a catch: you're not artistically inclined. But fear not, ray tracing comes to the rescue! In a way, it's like putting an insect net on a stick. By looking through this net, you can observe the landscape. Now, envision dividing the canvas into squares, mirroring those in the net. For each square in the net, identify the color of the landscape seen through it and paint that color onto the canvas in the corresponding position. Repeat this process for every hole in the net, and you've successfully crafted a painting! Here's the algorithm in a nutshell:
 
 ```Pseudocode
 set everything up

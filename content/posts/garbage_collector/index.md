@@ -24,9 +24,9 @@ Garbage collection is a double-edged sword in the realm of programming, offering
 
 To comprehend the magic behind garbage collection, let's dive into one of the fundamental techniques employed in memory management: reference counting. This technique serves as the backbone for many garbage collectors, including the one I developed for the C programming language.
 
-At its core, reference counting operates on a simple principle: every time an object is referenced or pointed to, a counter associated with that object is incremented. Conversely, when a reference to that object is no longer needed or goes out of scope, the counter is decremented. The magic happens when this counter hits zero—it signifies that the object is no longer in use and can be safely deallocated.
+At its core, reference counting operates on a simple principle: every time an object is referenced or pointed to, a counter associated with that object is incremented. Conversely, when a reference to that object is no longer needed or goes out of scope, the counter is decremented. The magic happens when this counter hits zero: it signifies that the object is no longer in use and can be safely deallocated.
 
-Imagine each object in your program as a unique entity with a personal tally of how many times it is being used. As references to the object come and go, its count fluctuates. When the count drops to zero, it's like the last person leaving a room, turning off the lights, and closing the door—it's no longer needed, and the memory it occupies can be released.
+Imagine each object in your program as a unique entity with a personal tally of how many times it is being used. As references to the object come and go, its count fluctuates. When the count drops to zero, it's like the last person leaving a room, turning off the lights, and closing the door: it's no longer needed, and the memory it occupies can be released.
 
 ### The Dance of Memory Management in C
 

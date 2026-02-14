@@ -52,7 +52,7 @@ Let's unpack each step.
 
 ### Tokenization
 
-First, we break the input string—"5 + 6 * 3"—into smaller pieces called tokens. A token is a single unit of meaning: 5 is a token, + is a token, and so on. The result looks like this:
+First, we break the input string: "5 + 6 * 3": into smaller pieces called tokens. A token is a single unit of meaning: 5 is a token, + is a token, and so on. The result looks like this:
 
 ```plain
 Number(5), Operator(+), Number(6), Operator(*), Number(3)
@@ -86,11 +86,11 @@ Now let's dive a bit deeper into formal grammars. These are the basis for every 
 
 ## Formal Grammars
 
-Formal grammars come from the idea of generative grammars, which were introduced by Noam Chomsky back in the 1950s. Chomsky, a linguist, wanted to figure out what it is we actually *"know"* when we can construct sentences in a language. Formal grammars take inspiration from this but focus on more structured systems—they aren't trying to explain natural languages like English or Spanish.
+Formal grammars come from the idea of generative grammars, which were introduced by Noam Chomsky back in the 1950s. Chomsky, a linguist, wanted to figure out what it is we actually *"know"* when we can construct sentences in a language. Formal grammars take inspiration from this but focus on more structured systems: they aren't trying to explain natural languages like English or Spanish.
 
 ### What is a Formal Grammar?  
 
-To create a formal grammar, you need three main things—or, more precisely, three sets of things:
+To create a formal grammar, you need three main things: or, more precisely, three sets of things:
 
 1. A set of *terminals*
 2. A set of *non-terminals*
@@ -101,7 +101,7 @@ Let's go through what these mean.
 
 #### Terminals
 
-Terminals are like the building blocks of your language—the "words" or symbols you work with. For example, in English, a terminal might be a word like “muffin” or a punctuation mark like “!”. Basically, a terminal is something you can write down, and it can't be broken into smaller parts.
+Terminals are like the building blocks of your language: the "words" or symbols you work with. For example, in English, a terminal might be a word like “muffin” or a punctuation mark like “!”. Basically, a terminal is something you can write down, and it can't be broken into smaller parts.
 
 If we switch to mathematical expressions, terminals could be numbers like `5` or `42.78`, or symbols like `+` and `*`.
 
@@ -215,19 +215,19 @@ R3 = 1k
 
 Just like that, both calculations run as expected. Neat, right?
 
-If you're interested in trying it out—or contributing—you can find the project here:
+If you're interested in trying it out: or contributing: you can find the project here:
 
 {{< github repo="TheCaptainCraken/ohmscript" >}}
 
 So, could we actually define a formal grammar for Ohmscript? Absolutely!
 If you check out the repo, you'll find a file named `ohmscript.cgn`. That file contains my definition of the grammar.
-But if you think you can come up with something cleaner or just want to chat about formal grammars, feel free to reach out—I'd love to hear your thoughts!
+But if you think you can come up with something cleaner or just want to chat about formal grammars, feel free to reach out: I'd love to hear your thoughts!
 
 ## The Elephant in the Room
 
 I can practically hear the collective groans of computer scientists after [showing you the grammar for a math expression](#a-formal-grammar-for-math-expressions). And honestly, I get it. That grammar is **ambiguous**.
 
-What does that mean? Well, if you're given a string, there's no clear way to figure out exactly *which rules* were applied—and in *what order*—to create it. This might not seem like a big deal at first, but things start falling apart when you try to write a parser. Why? Because ambiguous interpretations can lead to completely different results.
+What does that mean? Well, if you're given a string, there's no clear way to figure out exactly *which rules* were applied: and in *what order*: to create it. This might not seem like a big deal at first, but things start falling apart when you try to write a parser. Why? Because ambiguous interpretations can lead to completely different results.
 
 Here's the problem:
 
@@ -254,4 +254,4 @@ From just looking at the final string (`5 + 6 * 3`), there's no way to know! And
 
 In practical terms, it means our parser won't understand operator precedence. Does `5 + 6 * 3` mean `(5 + 6) * 3` or `5 + (6 * 3)`? We need the grammar to make that clear!
 
-But don't worry—this isn't the end of the story. In a future article, I'll show you how to fix this kind of ambiguity. For now, feel free to experiment and see what you can come up with!
+But don't worry: this isn't the end of the story. In a future article, I'll show you how to fix this kind of ambiguity. For now, feel free to experiment and see what you can come up with!

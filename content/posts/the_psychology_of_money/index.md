@@ -21,7 +21,7 @@ Let's explore.
 
 ## No One's Crazy
 
-> Your personal experiences with money make up maybe 0.00000001% of what's happened in the world—but maybe 80% of how you think the world works.
+> Your personal experiences with money make up maybe 0.00000001% of what's happened in the world: but maybe 80% of how you think the world works.
 
 This principle applies not just to money but to almost everything in life. Our worldview is shaped by our personal experiences. Here's a classic example: cars vs. planes.
 
@@ -31,7 +31,7 @@ Why? Because our fears and perceptions are based on personal experiences and the
 
 Likewise, people who win the lottery often believe they could win again. “It happened once,” they think, “so why not again?” You might not agree with their logic, but it's easy to see why someone in their position would think this way.
 
-We're all human, after all—and that's why…
+We're all human, after all: and that's why…
 
 ## Reasonable > Rational
 
@@ -41,14 +41,14 @@ Humans aren't robots. We often forget that. It's unrealistic to expect ourselves
 
 You might use the most logical investment strategy ever devised, but that doesn't mean you'll sleep well at night.
 
-Instead of aiming for pure rationality, aim to be reasonable. Choose strategies that align with how you think and feel—ones you can stick with over the long term.
+Instead of aiming for pure rationality, aim to be reasonable. Choose strategies that align with how you think and feel: ones you can stick with over the long term.
 
 For example, in the U.S., the historical odds of making money in the stock market are:
 
 50% in a single day
 68% in a year
 100% over 20 years
-If you stay in the game long enough, you'll make money—no matter what happens in between.
+If you stay in the game long enough, you'll make money: no matter what happens in between.
 
 But staying in the game requires more than just a reasonable plan. It also requires understanding that, since you're human…
 
@@ -56,7 +56,7 @@ But staying in the game requires more than just a reasonable plan. It also requi
 
 > Long-term planning is harder than it seems because people's goals and desires change over time.
 
-You may not realize it, but you've already changed—and you'll keep changing.
+You may not realize it, but you've already changed: and you'll keep changing.
 
 Think about it: What you wanted as a kid is probably very different from what you want now. And what you'll want in 20 years will likely differ from what you want today.
 
@@ -66,14 +66,14 @@ This way, when your circumstances and priorities inevitably shift, you'll be pre
 
 ## Conclusion
 
-Money isn't just numbers on a spreadsheet—it's deeply tied to how we think, feel, and see the world.
+Money isn't just numbers on a spreadsheet: it's deeply tied to how we think, feel, and see the world.
 *The Psychology of Money* reminds us that financial success isn't just about making the “right” decisions; it's about understanding ourselves and the sometimes irrational ways we approach money.
 
 We've seen how [No One's Crazy](#no-ones-crazy). Everyone's decisions make sense through the lens of their own experiences.
 We've also learned that [Reasonable > Rational](#reasonable--rational), and that plans need room to adapt because, well, we're always changing.
 
 But honestly, we've only scratched the surface of what this book has to offer.
-Morgan Housel doesn't just deliver financial wisdom—he weaves in life lessons about people, behavior, and the quirks of human nature.
+Morgan Housel doesn't just deliver financial wisdom: he weaves in life lessons about people, behavior, and the quirks of human nature.
 It's the kind of book you read not just to understand money better, but to understand yourself and others, too.
 
 At the end of the day, money is just a tool.

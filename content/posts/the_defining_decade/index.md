@@ -37,7 +37,7 @@ Jay argues against aimless wandering or waiting for a lightning bolt of inspirat
 * Traveling with a purpose, not just drifting.
 * Developing personal skills like communication or resilience.
 
-The point isn't to have it all figured out instantly, but to start collecting assets that make you more valuable—to employers, to potential partners, and most importantly, to yourself. Waiting until your thirties to start building this capital means playing catch-up later on.
+The point isn't to have it all figured out instantly, but to start collecting assets that make you more valuable: to employers, to potential partners, and most importantly, to yourself. Waiting until your thirties to start building this capital means playing catch-up later on.
 
 ## The Strength of Weak Ties
 
@@ -45,7 +45,7 @@ The point isn't to have it all figured out instantly, but to start collecting as
 
 We often rely heavily on our close friends (our "urban tribe") for support and comfort. While these strong ties are important, Jay highlights sociologist Mark Granovetter's research showing that new opportunities (like jobs or crucial information) often come from our *weak ties*.
 
-Weak ties are acquaintances, former colleagues, friends-of-friends—people outside our immediate circle. Why are they so valuable?
+Weak ties are acquaintances, former colleagues, friends-of-friends: people outside our immediate circle. Why are they so valuable?
 
 * **Access to New Information:** Your close friends likely know the same people and information you do. Weak ties bridge you to different networks and possibilities.
 * **Different Perspectives:** Talking to people outside your usual group forces you to articulate your thoughts more clearly and can expose you to new ways of thinking.
