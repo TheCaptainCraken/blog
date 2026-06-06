@@ -1,6 +1,6 @@
 ---
 title: Corvivio Devlog 01
-date: 2026-04-20
+date: 2026-06-06
 summary: My phone was full of dance videos I never watched again. So I built something. Here's how it started.
 tags: ["devlog", "typescript", "startup", "dance", "build in public"]
 series: ["Building Corvivio"]
